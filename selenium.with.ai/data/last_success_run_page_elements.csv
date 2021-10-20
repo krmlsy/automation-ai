@@ -1,0 +1,4 @@
+element,tag,id,type,class,name,aria-autocomplete,title,href,text,placeholder
+tckn,input,tckn,text,ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-focus,tckn,None,None,None,None,TC Kimlik Numaraniz
+parola,input,parola,password,ui-inputfield ui-password ui-widget ui-state-default ui-corner-all ui-state-focus,parola,None,None,None,None,Parolaniz
+normalGirisBtn,button,normalGirisBtn,submit,ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn-button btn-primary ui-state-focus,normalGirisBtn,None,None,None,Devam,None

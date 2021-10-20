@@ -1,0 +1,5 @@
+element,tag,id,type,class,name,aria-autocomplete,title,href,text,placeholder
+normalGirisBtn,button,normalGirisBtn,submit,ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn-button btn-primary,normalGirisBtn,None,None,None,Devam,None
+mobileSignLoginBtn,button,mobileSignLoginBtn,submit,ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only btn-thin,mobileSignLoginBtn,None,None,None,Mobil Imza ile Giris Yap,None
+tckn,input,tckn,text,ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all,tckn,None,None,None,None,TC Kimlik Numaraniz
+parola,input,parola,password,ui-inputfield ui-password ui-widget ui-state-default ui-corner-all ui-state-focus,parola,None,None,None,None,Parolaniz
